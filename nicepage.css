@@ -41106,17 +41106,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   font-family: "Doppio One";
-  margin: 49px 287px 49px 437px;
+  width: 417px;
+  margin: 49px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 99px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 417px;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 @media (max-width: 991px) {

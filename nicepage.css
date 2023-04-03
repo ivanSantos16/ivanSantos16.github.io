@@ -42464,11 +42464,19 @@ a.u-link.u-text-hover-grey-90:hover {
  }
 
  span.year-leftside {
-   width: 36px;
-   text-align: end !important;
-   color: #333333;
-   font-weight: bold;
+  max-width: 20%;
+  font-family: "Dosis";
+  font-size: 22px;
+  text-align: end !important;
+  color: #333333;
+  font-weight: bold;
  }
+
+  span.title {
+    font-family: "Dosis", arial, tahoma, verdana;
+    font-size: 20px;
+    max-width: 80%;
+  }
 
  #timeline .timeline-item .timeline-content:before {
    content: '';

@@ -409,9 +409,9 @@
     margin-left: 18px;
   }
 
-  .u-section-2 .u-text-2 {
+  /* .u-section-2 .u-text-2 {
     margin-right: 0;
-  }
+  } */
 
   .u-section-2 .u-custom-html-1 {
     width: 320px;
@@ -653,7 +653,7 @@
   font-family: "Doppio One";
   font-size: 1.125rem;
   line-height: 2;
-  margin: 4px 13px 0;
+  margin: 28px 13px 0;
 }
 
 .u-section-4 .u-group-elements-2 {
@@ -741,14 +741,14 @@
   font-family: "Doppio One";
   font-size: 1.125rem;
   line-height: 2;
-  margin: 45px 13px 0;
+  margin: 80px 13px 0;
 }
 
 .u-section-4 .u-text-7 {
   font-family: "Doppio One";
   font-size: 1.125rem;
   line-height: 2;
-  margin: 5px 13px 0;
+  margin: 28px 13px 0;
 }
 
 .u-section-4 .u-group-elements-5 {

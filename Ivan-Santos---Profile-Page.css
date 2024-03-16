@@ -2123,3 +2123,16 @@ p.classeNames {
 .expand .to-contents {
     transform: scale(1);
 }
+
+.hyperlink {
+    color: #c6ab76;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: "Doppio One", sans-serif;
+}
+
+.hyperlink:hover {
+    color: #c6ab76;
+    text-decoration: underline;
+}
